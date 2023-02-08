@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DSPToolbox",
+    "\\DSPToolbox\\DSPComponents",
+    "\\DSPToolbox\\DSPComponentsUnitTest",
+    "\\DSPToolbox\\DSPComponents\\Algorithms"
+  ],
+  "SelectedNode": "\\DSPToolbox\\DSPComponentsUnitTest\\DSPComponentsUnitTest.csproj",
+  "PreviewInSolutionExplorer": false
+}

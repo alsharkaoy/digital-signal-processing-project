@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7be8d9cc-4c76-43a1-aee1-09333f5796c5": {
+      "ProjectGuid": "7be8d9cc-4c76-43a1-aee1-09333f5796c5",
+      "DisplayName": "DSPComponentsUnitTest",
+      "ColorIndex": 0
+    },
+    "7a3b0c0a-5154-4c6f-a5a0-a731f83f736c": {
+      "ProjectGuid": "7a3b0c0a-5154-4c6f-a5a0-a731f83f736c",
+      "DisplayName": "DSPAlgorithms",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

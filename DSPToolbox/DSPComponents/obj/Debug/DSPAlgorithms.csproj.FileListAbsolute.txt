@@ -1,0 +1,18 @@
+C:\Users\Samy\Desktop\DSP-PROJECT\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Samy\Desktop\DSP-PROJECT\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Samy\Desktop\DSP-PROJECT\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+C:\Users\Samy\Desktop\DSP-PROJECT\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+C:\Users\Samy\Desktop\DSP-PROJECT\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+C:\Users\Samy\Desktop\DSP-PROJECT\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+C:\Users\ziad nagi\OneDrive\Desktop\applai\DSP-PROJECT\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+C:\Users\ziad nagi\OneDrive\Desktop\applai\DSP-PROJECT\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+C:\Users\ziad nagi\OneDrive\Desktop\applai\DSP-PROJECT\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+C:\Users\ziad nagi\OneDrive\Desktop\applai\DSP-PROJECT\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\ziad nagi\OneDrive\Desktop\applai\DSP-PROJECT\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+C:\Users\ziad nagi\OneDrive\Desktop\applai\DSP-PROJECT\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+C:\Users\ALSHARKAOY\Desktop\DSP-PROJECT\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+C:\Users\ALSHARKAOY\Desktop\DSP-PROJECT\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+C:\Users\ALSHARKAOY\Desktop\DSP-PROJECT\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+C:\Users\ALSHARKAOY\Desktop\DSP-PROJECT\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\ALSHARKAOY\Desktop\DSP-PROJECT\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+C:\Users\ALSHARKAOY\Desktop\DSP-PROJECT\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
